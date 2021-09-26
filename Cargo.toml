@@ -1,12 +1,12 @@
 [package]
 name = "fn_has_this"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["William Venner <william@venner.io>"]
 license = "MIT"
 repository = "https://github.com/WilliamVenner/fn_has_this"
 description = "A proc attribute macro that allows you to specify whether a function has a `this` argument (for conditional compilation)"
-categories = ["development-tools"]
+categories = ["development-tools::ffi"]
 keywords = ["function", "macro"]
 
 [lib]
